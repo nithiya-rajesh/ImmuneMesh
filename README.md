@@ -63,7 +63,7 @@ agent mesh, ImmuneMesh provides a comprehensive sandbox to explore and test.
 
 **Option A: Using Git**
 ```bash
-git clone https://github.com/<your-username>/immunemesh.git
+git clone https://github.com/nithiya-rajesh/immunemesh.git
 cd immunemesh
 ```
 
