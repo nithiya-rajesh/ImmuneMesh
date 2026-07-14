@@ -163,7 +163,7 @@ python benchmarks/benign_corpus_eval.py
 
 ### What the live dashboard looks like
 
-![ImmuneMesh live dashboard — Agent 1 infected (red), Agent 2 blocked (orange), Agent 3 clean (green), with the signal log below](docs/screenshots/dashboard.png)
+<img width="1352" height="692" alt="dashboard" src="https://github.com/user-attachments/assets/3c4d542a-634b-4cac-9a95-ee150695c663" />
 
 Agent 1 gets hit with a Morris-II style payload and is confirmed malicious
 (canary echo detected, antibody created). Agent 2 receives the identical
